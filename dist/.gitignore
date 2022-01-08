@@ -4,3 +4,7 @@
 node_modules
 dist
 .cache
+#to ignore file
+/AbhiCredentials.abhi
+#to ignore folder
+/Text/*.txt
