@@ -6,5 +6,5 @@ dist
 .cache
 #to ignore file
 /AbhiCredentials.abhi
-#to ignore folder
+#to ignore particular files folder
 /Text/*.txt
